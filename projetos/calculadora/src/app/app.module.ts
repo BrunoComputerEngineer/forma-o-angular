@@ -14,7 +14,7 @@ import { CalculadoraModule } from './calculadora';
     BrowserModule,
     FormsModule,
     HttpModule,
-    CalculadoraModule    
+    CalculadoraModule
   ],
   providers: [],
   bootstrap: [AppComponent]
